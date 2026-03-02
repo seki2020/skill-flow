@@ -194,7 +194,7 @@ We welcome all contributions! Please read [CONTRIBUTING.md](CONTRIBUTING.md) and
 
 ## 📄 License
 
-[MIT License](LICENSE) © 2025 [Your Name/Organization]
+[MIT License](LICENSE) © 2025 [seki2020/tony@creatorlens.asia]
 
 ---
 
